@@ -1,1 +1,1 @@
-# Algorithm-Game_project
+# CSCI-UA-310-Algorithms-Game-Project
